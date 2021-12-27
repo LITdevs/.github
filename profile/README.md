@@ -1,6 +1,9 @@
 # 🔥🔥🔥
-We make software. Yeah, you'll be surprised by that one.
+We make software. Yeah, you'll be surprised by that. Are you surprised? Are you?
 
-We're working on [Vukkybox](https://vukkybox.com), a game where you can collect over 300 Vukkies, and [SaladBind](https://github.com/vukkyltd/saladbind), an open source tool for the [Salad](https://salad.com) application.
+## Projects
+We're working on [Vukkybox](https://vukkybox.com), a [gachapon](https://en.wikipedia.org/wiki/Gashapon)-like webgame where you can collect over 300 mysterious creatures known as Vukkies, and [SaladBind](https://github.com/vukkyltd/saladbind), an open source tool for the [Salad](https://salad.com) application.
+
+Both of these projects use Node.js as their backend.
 
 More stuff is coming soon. As in, very soon. Or maybe not very soon. I don't know!
