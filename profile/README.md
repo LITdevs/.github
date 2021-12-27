@@ -1,5 +1,14 @@
 # 🔥🔥🔥
-Welcome to LIT Devs! We make software. Yeah, you'll be surprised by that. Are you surprised? Are you?
+Welcome to LIT Devs!
+
+## Who are you, anyway?
+<img align="left" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyconfused.png">
+
+We're a team of two ([Vukky](https://sus.omg.lol) and [Skelly](https://profile.omg.lol/null)) creating some random software, you know, just for fun!
+
+LIT Devs was founded in June of 2020, and we're not planning to stop making things any time soon.
+
+In case you're wondering, the *LIT* in LIT Devs is pronounced [as one word](https://upload.wikimedia.org/wikipedia/commons/0/0e/En-us-lit.ogg).
 
 ## Projects
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyminer.png">
