@@ -22,4 +22,4 @@ Both of these projects use Node.js as their backend, which is our language of ch
 
 SaladBind has over **10,000** downloads, we have a [Discord server](https://discord.gg/litdevs) with over 1,000 members, and over 300 users have signed up to Vukkybox.
 
-We allow users to submit their own Vukkies into Vukkybox. Over 190 Vukkies in the game were created using this method[.](https://vukkybox.com/crash)
+We allow users to submit their own Vukkies into Vukkybox. Over **200** Vukkies in the game were created using this method[.](https://vukkybox.com/crash)
