@@ -24,4 +24,4 @@ SaladBind has over **10,000** downloads, we have a [Discord server](https://disc
 
 We allow users to submit their own Vukkies into Vukkybox. Over **200**\* of the Vukkies in the game were created using this method[.](https://vukkybox.com/crash)
 
-* This number includes Pukkies, simple profile pictures that one person owns. It's not blockchain related! BUT other people are making them, so we're counting them.
+\* This number includes Pukkies, simple profile pictures that one person owns. It's not blockchain related! BUT other people are making them, so we're counting them.
