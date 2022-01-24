@@ -6,9 +6,7 @@ Welcome to LIT Devs!
 
 We're a team of two ([Vukky](https://sus.omg.lol) and [Skelly](https://profile.omg.lol/null)) creating some random software, you know, just for fun!
 
-LIT Devs was founded in June of 2020, and we're not planning to stop making things any time soon.
-
-In case you're wondering, the *LIT* in LIT Devs is pronounced [as one word](https://upload.wikimedia.org/wikipedia/commons/0/0e/En-us-lit.ogg).
+LIT Devs was founded in June of 2020, and we're not planning to stop making things any time soon. Abandoned projects are stored in the [LIT Devs archive](https://github.com/LITdevs-archive).
 
 ## So what are you making?
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyminer.png">
@@ -25,5 +23,3 @@ SaladBind has over **10,000** downloads, we have a [Discord server](https://disc
 We allow users to submit their own Vukkies into Vukkybox. Over **200**\* of the Vukkies in the game were created using this method[.](https://vukkybox.com/crash)
 
 \*This number includes Pukkies, simple profile pictures that one person owns. It's not blockchain-related, BUT other people are making them, so we're counting them.
-
-<span style="font-size: 50%;">Abandoned projects are stored in the [LIT Devs archive](https://github.com/LITdevs-archive).</small>
