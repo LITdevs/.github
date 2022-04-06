@@ -19,6 +19,6 @@ Both of these projects use Node.js as their backend, which is our language of ch
 ## Cool! But does anyone care?
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyhappy.png">
 
-SaladBind has over **10,000** downloads, we have a [Discord server](https://discord.gg/litdevs) with over 1,000 members, and over 300 users have signed up to Vukkybox.
+SaladBind has over **22,000** downloads, we have a [Discord server](https://discord.gg/litdevs) with over 1,000 members, and over 300 users have signed up to Vukkybox.
 
 We allow users to submit their own Vukkies into Vukkybox. Over **200**\* of the Vukkies in the game were created using this method[.](https://vukkybox.com/crash)
