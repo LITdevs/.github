@@ -1,5 +1,11 @@
 # 🔥🔥🔥 [![Discord](https://img.shields.io/discord/868937321402204220?color=5865f2&label=chat&logo=discord&logoColor=7289da)](https://discord.gg/litdevs)
+<img align="left" height="100" src="https://logo.litdevs.org/api/vukky/bg"> 
+
 Welcome to LIT Devs!
+
+Filler text!
+
+Wow!
 
 ## Who are you, anyway?
 <img align="left" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyconfused.png">
