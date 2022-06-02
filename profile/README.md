@@ -3,9 +3,9 @@
 
 Welcome to LIT Devs!
 
-Filler text!
+<- That logo was designed by a user! Click it to change its appearance.
 
-Wow!
+Have fun checking out our various projects we have made.
 
 ## Who are you, anyway?
 <img align="left" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyconfused.png">
