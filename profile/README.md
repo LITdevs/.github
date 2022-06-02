@@ -1,5 +1,5 @@
 # 🔥🔥🔥 [![Discord](https://img.shields.io/discord/868937321402204220?color=5865f2&label=chat&logo=discord&logoColor=7289da)](https://discord.gg/litdevs)
-<img align="left" height="100" src="https://logo.litdevs.org/api/vukky/bg"> 
+[<img align="left" height="100" src="https://logo.litdevs.org/api/vukky/bg">](https://litdevs.org/logodesigner/)
 
 Welcome to LIT Devs!
 
