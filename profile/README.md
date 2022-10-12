@@ -25,6 +25,6 @@ It uses Node.js, which is our language of choice at the moment. More stuff is co
 ## Cool! But does anyone care?
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyhappy.png">
 
-We have a [Discord server](https://discord.gg/litdevs) with over 900 members, and over 300 users have signed up to Vukkybox.
+We have a [Discord server](https://discord.gg/z5tmTWU7Qw) with over 800 members, and over 300 users have signed up to Vukkybox.
 
 We allow users to submit their own Vukkies into Vukkybox. Over **200**\* of the Vukkies in the game were created using this method[.](https://vukkybox.com/crash)
