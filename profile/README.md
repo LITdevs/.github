@@ -10,7 +10,7 @@ Have fun checking out our various projects we have made.
 ## Who are you, anyway?
 <img align="left" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyconfused.png">
 
-We're a team of two ([Vukky](https://sus.omg.lol) and [Skelly](https://profile.omg.lol/null)) creating some random software, you know, just for fun!
+We're a team of three ([Vukky](https://sus.omg.lol), Skelly, and [Shruc](https://shruc.omg.lol/)) creating some random software, you know, just for fun!
 
 LIT Devs was founded in June of 2020, and we're not planning to stop making things any time soon. Abandoned projects are stored in the [LIT Devs archive](https://github.com/LITdevs-archive).
 
@@ -25,6 +25,6 @@ It uses Node.js, which is our language of choice at the moment. More stuff is co
 ## Cool! But does anyone care?
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyhappy.png">
 
-We have a [Discord server](https://discord.gg/z5tmTWU7Qw) with over 800 members, and over 300 users have signed up to Vukkybox.
+We have a [Discord server](https://discord.gg/z5tmTWU7Qw) with over 700 members, and over 300 users have signed up to Vukkybox.
 
 We allow users to submit their own Vukkies into Vukkybox. Over **200**\* of the Vukkies in the game were created using this method[.](https://vukkybox.com/crash)
