@@ -10,7 +10,7 @@ Have fun checking out our various projects we have made.
 ## Who are you, anyway?
 <img align="left" height="100" src="https://raw.githubusercontent.com/Vukkyy/vukmoji/master/emojis/static/vukkyconfused.png">
 
-We're a team of three ([Vukky](https://sus.omg.lol), Skelly, and [Shruc](https://shruc.omg.lol/)) creating some random software, you know, just for fun!
+We're a team of three ([Vukky](https://sus.omg.lol), [Amy](https://amelia.omg.lol/), and [Shruc](https://shruc.omg.lol/)) creating some random software, you know, just for fun!
 
 LIT Devs was founded in June of 2020, and we're not planning to stop making things any time soon. Abandoned projects are stored in the [LIT Devs archive](https://github.com/LITdevs-archive).
 
